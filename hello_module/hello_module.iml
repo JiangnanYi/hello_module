@@ -22,5 +22,6 @@
     <orderEntry type="module" module-name="service" />
     <orderEntry type="module" module-name="dao" />
     <orderEntry type="module" module-name="entity" />
+    <orderEntry type="library" scope="PROVIDED" name="Tomcat 8.0.44" level="application_server_libraries" />
   </component>
 </module>
